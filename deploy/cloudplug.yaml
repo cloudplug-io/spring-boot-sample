@@ -1,0 +1,6 @@
+application:
+    name: spring-boot-sample
+    port: 8080
+    runtime: java
+    framework: spring-boot
+    build: gradle
